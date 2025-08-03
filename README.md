@@ -116,7 +116,7 @@
 
     Ответ:
 
-    [{"id":1501,"tender_number_span":"Тендер №85583647","title":"Тендер продукты питания (мясо говядина бескостное тазобедренный отруб) для нужд фгбоу д/с 258 в Новосибирске","delivery_address":"город Новосибирск","initial_price":"96 000 ₽","customer_branches":"Мясо, Мясные продукты, Продукция животноводства и охоты","link":"https://rostender.info/region/novosibirskaya-oblast/novosibirsk/85583647-tender-produkty-pitaniya-myaso-govyadina-beskostnoe-tazobedrennyj-otrub-dlya-nujd-fgbou-ds-258"}]
+        [{"id":1501,"tender_number_span":"Тендер №85583647","title":"Тендер продукты питания (мясо говядина бескостное тазобедренный отруб) для нужд фгбоу д/с 258 в Новосибирске","delivery_address":"город Новосибирск","initial_price":"96 000 ₽","customer_branches":"Мясо, Мясные продукты, Продукция животноводства и охоты","link":"https://rostender.info/region/novosibirskaya-oblast/novosibirsk/85583647-tender-produkty-pitaniya-myaso-govyadina-beskostnoe-tazobedrennyj-otrub-dlya-nujd-fgbou-ds-258"}]
 
 4. Запросы можно так же выполнять через Swagger:
     
